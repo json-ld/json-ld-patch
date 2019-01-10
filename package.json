@@ -1,0 +1,18 @@
+{
+  "name": "json-ld-patch-context",
+  "version": "0.0.1-0",
+  "description": "JSON-LD Patch Context",
+  "main": "js",
+  "files": [
+    "contexts",
+    "js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/json-ld/json-ld-patch"
+  },
+  "bugs": {
+    "url": "https://github.com/json-ld/json-ld-patch/issues"
+  },
+  "homepage": "https://github.com/json-ld/json-ld-patch#readme"
+}
