@@ -6,7 +6,7 @@
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "add": "jldp:add",
     "copy": "jldp:copy",
-    "frame": {"@id": "jldp:from", "@type": "@id"},
+    "frame": {"@id": "jldp:frame", "@type": "@id"},
     "from": "jldp:from",
     "move": "jldp:move",
     "op": "jldp:op",
