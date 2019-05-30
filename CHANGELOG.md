@@ -1,6 +1,6 @@
 # json-ld-patch-context ChangeLog
 
-## 3.0.0 - TBD
+## 3.0.0 - 2019-05-30
 
 ### Changed
 - **BREAKING**: Implement a new module structure.
