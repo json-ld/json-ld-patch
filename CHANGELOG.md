@@ -1,5 +1,10 @@
 # json-ld-patch-context ChangeLog
 
+## 4.0.0 - 2019-xx-xx
+
+### Changed
+- **BREAKING**: Update context to use JSON literals.
+
 ## 3.0.0 - 2019-05-30
 
 ### Changed
